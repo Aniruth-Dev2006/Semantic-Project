@@ -191,6 +191,3 @@ You can experiment with your own sentence transformer models with the `--model` 
 - Supported languages: `{ 'python', 'javascript', 'typescript', 'ruby', 'go', 'rust', 'java', 'c', 'c++', 'kotlin' }`
 - Supported text editors for opening results in: `{ 'vscode', 'vim' }`
 
-## License
-
-Semantic Code Search is distributed under [AGPL-3.0-only](LICENSE.txt). For Apache-2.0 exceptions — <kiril@codeball.ai>
